@@ -17,7 +17,7 @@ I implemented a scrollable flutter UI using `NestedScrollView`, `SliverAppBar` a
 
 ```bash
 flutter run
-
+```
 ## Demo Screenshot
 
-![img.png](img.png)
+![Screenshot 2025-06-26 172726](https://github.com/user-attachments/assets/28efd16b-b971-4dfe-a2f3-c51ab6431f30)
