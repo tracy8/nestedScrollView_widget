@@ -1,5 +1,9 @@
 # Flutter NestedScrollView Example
 
+NestedScrollView is a widget that gives you  control over 
+how your app scrolls, especially when you have multiple scrollable areas 
+like a header and a body with tabs.
+
 I implemented a scrollable flutter UI using `NestedScrollView`, `SliverAppBar` and `TabBarView`.
 
 1. SliverAppBar: A scrollable app bar that i used to expand and collapse.
@@ -13,3 +17,7 @@ I implemented a scrollable flutter UI using `NestedScrollView`, `SliverAppBar` a
 
 ```bash
 flutter run
+
+## Demo Screenshot
+
+![img.png](img.png)
